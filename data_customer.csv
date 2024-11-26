@@ -1,0 +1,15 @@
+Gender,Age,Income,Tenure,ServiceCalls,InternetService,PaymentMethod,LoyaltyStatus
+Male,57,43360,8,4,DSL,Electronic check,Churn
+Male,65,28255,11,2,Fiber optic,Credit card,Loyal
+Male,69,88235,2,9,DSL,Mailed check,Loyal
+Female,47,107464,9,3,DSL,Credit card,Loyal
+Female,79,68169,6,11,No,Mailed check,Loyal
+Female,24,20372,1,7,Fiber optic,Bank transfer,Churn
+Male,34,73179,3,13,Fiber optic,Mailed check,Churn
+Male,56,77649,10,2,No,Electronic check,Churn
+Male,55,38898,5,2,DSL,Mailed check,Loyal
+Male,22,70083,12,10,No,Mailed check,Loyal
+Female,34,43855,1,10,DSL,Credit card,Loyal
+Female,57,54758,9,7,No,Electronic check,Churn
+Male,75,29607,13,9,No,Bank transfer,Loyal
+Male,18,94089,19,12,DSL,Mailed check,Churn
